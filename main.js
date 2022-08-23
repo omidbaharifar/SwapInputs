@@ -7,4 +7,5 @@ function swap() {
         secondInput.value = firstInputValue;
 }
 
+console.log("Hi");
 
